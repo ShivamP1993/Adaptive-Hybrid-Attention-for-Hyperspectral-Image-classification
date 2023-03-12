@@ -22,3 +22,18 @@ Tensorflow 2
 ```
 3. Run HyAttNet.py
 ```
+# Citation
+If using the concept or code, kindly cite the paper as: S. Pande and B. Banerjee. Adaptive hybrid attention network for hyperspectral image classification. In Pattern Recognition Letters, vo. 144, pages 6-12, Jan 2021.
+
+You can also use the bibtex as:
+```
+@article{pande2021adaptive,
+  title={Adaptive hybrid attention network for hyperspectral image classification},
+  author={Pande, Shivam and Banerjee, Biplab},
+  journal={Pattern Recognition Letters},
+  volume={144},
+  pages={6--12},
+  year={2021},
+  publisher={Elsevier}
+}
+```
