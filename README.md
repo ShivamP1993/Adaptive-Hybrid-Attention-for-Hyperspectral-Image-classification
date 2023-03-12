@@ -5,3 +5,20 @@ The task of land cover classification from hyperspectral images (HSI) has recent
 ![alt text](images/diagram1.png)
 
 >URL to the paper: [Paper](https://www.sciencedirect.com/science/article/pii/S0167865521000283?ref=cra_js_challenge&fr=RR-1)
+
+Requirement:
+
+```
+Tensorflow 2
+```
+Steps:
+
+```
+1. Download the dataset from the provided URL in data folder
+```
+```
+2. Run data_prepare.py
+```
+```
+3. Run HyAttNet.py
+```
