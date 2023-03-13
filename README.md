@@ -21,7 +21,7 @@ Tensorflow 2
 2. Run data_prepare.py
 ```
 ```
-3. Run HyAttNet.py
+3. Run hybrid_att_model.py
 ```
 # Citation
 If using the concept or code, kindly cite the paper as: S. Pande and B. Banerjee. Adaptive hybrid attention network for hyperspectral image classification. In Pattern Recognition Letters, vo. 144, pages 6-12, Jan 2021.
